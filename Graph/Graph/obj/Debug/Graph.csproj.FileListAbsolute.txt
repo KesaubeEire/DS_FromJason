@@ -1,0 +1,9 @@
+E:\41721610\Graph\Graph\bin\Debug\Graph.exe.config
+E:\41721610\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+E:\41721610\Graph\Graph\obj\Debug\Graph.Form_Graph.resources
+E:\41721610\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+E:\41721610\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+E:\41721610\Graph\Graph\bin\Debug\Graph.exe
+E:\41721610\Graph\Graph\bin\Debug\Graph.pdb
+E:\41721610\Graph\Graph\obj\Debug\Graph.exe
+E:\41721610\Graph\Graph\obj\Debug\Graph.pdb

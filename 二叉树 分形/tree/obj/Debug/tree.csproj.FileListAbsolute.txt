@@ -1,0 +1,30 @@
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.Properties.Resources.resources
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.csproj.GenerateResource.cache
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\bin\Debug\tree.exe.config
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\bin\Debug\tree.exe
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\bin\Debug\tree.pdb
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.Form1.resources
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.exe
+C:\Users\刘欢\Desktop\数据结构\树\tree\tree\obj\Debug\tree.pdb
+G:\_\被木马隐藏的文件\tree\tree\bin\Debug\tree.exe.config
+G:\_\被木马隐藏的文件\tree\tree\bin\Debug\tree.exe
+G:\_\被木马隐藏的文件\tree\tree\bin\Debug\tree.pdb
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.Form1.resources
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.Properties.Resources.resources
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.csproj.GenerateResource.cache
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.exe
+G:\_\被木马隐藏的文件\tree\tree\obj\Debug\tree.pdb
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\bin\Debug\tree.exe.config
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\bin\Debug\tree.exe
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\bin\Debug\tree.pdb
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.csprojAssemblyReference.cache
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.Form1.resources
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.Properties.Resources.resources
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.csproj.GenerateResource.cache
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.exe
+C:\Users\zhaowenjie\Desktop\TMP\二叉树 分形\tree\obj\Debug\tree.pdb

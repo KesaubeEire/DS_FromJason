@@ -1,0 +1,9 @@
+C:\Users\18945\Desktop\二叉树 分形\tree\bin\Release\tree.exe.config
+C:\Users\18945\Desktop\二叉树 分形\tree\bin\Release\tree.exe
+C:\Users\18945\Desktop\二叉树 分形\tree\bin\Release\tree.pdb
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.Form1.resources
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.Properties.Resources.resources
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.csproj.GenerateResource.cache
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.csproj.CoreCompileInputs.cache
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.exe
+C:\Users\18945\Desktop\二叉树 分形\tree\obj\Release\tree.pdb

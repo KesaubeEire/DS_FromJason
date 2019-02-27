@@ -1,0 +1,10 @@
+C:\Users\18945\source\repos\WTFTree\WTFTree\bin\Debug\WTFTree.exe.config
+C:\Users\18945\source\repos\WTFTree\WTFTree\bin\Debug\WTFTree.exe
+C:\Users\18945\source\repos\WTFTree\WTFTree\bin\Debug\WTFTree.pdb
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.csprojAssemblyReference.cache
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.Form1.resources
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.Properties.Resources.resources
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.csproj.GenerateResource.cache
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.csproj.CoreCompileInputs.cache
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.exe
+C:\Users\18945\source\repos\WTFTree\WTFTree\obj\Debug\WTFTree.pdb

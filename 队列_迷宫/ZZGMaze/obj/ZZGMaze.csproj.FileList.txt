@@ -1,0 +1,8 @@
+bin\Debug\ZZGMaze.exe
+bin\Debug\ZZGMaze.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ZZGMaze.Form_Maze.resources
+obj\Debug\ZZGMaze.Properties.Resources.resources
+obj\Debug\ZZGMaze.csproj.GenerateResource.Cache
+obj\Debug\ZZGMaze.exe
+obj\Debug\ZZGMaze.pdb
